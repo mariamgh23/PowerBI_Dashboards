@@ -6,7 +6,6 @@ An interactive Power BI dashboard analyzing the electric vehicle population — 
 
 ## 📸 Preview
 
-> _Add a screenshot here: replace the line below with your image_
 
 ![Dashboard Preview](./assets/preview.png)
 
