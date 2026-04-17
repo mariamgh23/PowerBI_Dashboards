@@ -2,15 +2,17 @@
 
 A collection of interactive data dashboards and visual analytics projects built with Power BI.
 
+# 📊 Data Visuals Portfolio
+A collection of interactive data dashboards and visual analytics projects built with Power BI.
 ---
-
 ## 📁 Projects
-
 | # | Dashboard | Tool | Description |
 |---|-----------|------|-------------|
 | 01 | [Electric Vehicles Analysis](./electric-vehicles/) | Power BI | EV population trends, BEV vs PHEV breakdown, geographic distribution & manufacturer insights |
-
----
+| 02 | [Diabetes Prediction](./diabetes-prediction/) | Power BI | Patient risk scoring, glucose & BMI distributions, feature correlation heatmap & prediction accuracy metrics |
+| 03 | [AI Jobs Market](./ai-jobs/) | Power BI | Global AI job postings trends, top roles & skills demand, salary benchmarks & geographic hotspots |
+| 04 | [Car Sales in KSA](./car-sales-ksa/) | Power BI | Saudi Arabia vehicle sales breakdown by brand, segment & region, seasonal trends & market share analysis |
+| 05 | [Shopping Latest Trends](./shopping-trends/) | Power BI | Consumer spending patterns, top product categories, purchase channel comparison & seasonal buying behavior |
 
 ## 🛠 Tools & Stack
 
